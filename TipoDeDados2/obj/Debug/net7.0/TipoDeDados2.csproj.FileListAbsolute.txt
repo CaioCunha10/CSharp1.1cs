@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\bin\Debug\net7.0\TipoDeDados2.exe
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\bin\Debug\net7.0\TipoDeDados2.deps.json
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\bin\Debug\net7.0\TipoDeDados2.runtimeconfig.json
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\bin\Debug\net7.0\TipoDeDados2.dll
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\bin\Debug\net7.0\TipoDeDados2.pdb
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\obj\Debug\net7.0\TipoDeDados2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\obj\Debug\net7.0\TipoDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\obj\Debug\net7.0\TipoDeDados2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\obj\Debug\net7.0\TipoDeDados2.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\obj\Debug\net7.0\TipoDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\obj\Debug\net7.0\TipoDeDados2.dll
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\obj\Debug\net7.0\refint\TipoDeDados2.dll
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\obj\Debug\net7.0\TipoDeDados2.pdb
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\obj\Debug\net7.0\TipoDeDados2.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\TipoDeDados2\obj\Debug\net7.0\ref\TipoDeDados2.dll
