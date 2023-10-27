@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\bin\Debug\net7.0\SaidaDados.exe
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\bin\Debug\net7.0\SaidaDados.deps.json
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\bin\Debug\net7.0\SaidaDados.runtimeconfig.json
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\bin\Debug\net7.0\SaidaDados.dll
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\bin\Debug\net7.0\SaidaDados.pdb
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.dll
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\obj\Debug\net7.0\refint\SaidaDados.dll
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.pdb
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\obj\Debug\net7.0\SaidaDados.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Projects\Trilha1- Macoratti\CsFundamentos1\SaidaDados\obj\Debug\net7.0\ref\SaidaDados.dll
